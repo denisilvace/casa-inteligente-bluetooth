@@ -1,2 +1,9 @@
 # Casa Inteligente via bluetooth
-Casa inteligente, com leds e,com um motor, contrada por bluetooth e feito para arduino
+Protótipo de uma casa inteligente onde o usuário pode controlar a iluminação e um servo motor, simulando um motor de portão, por arduino
+
+aplivativos:
+- Bluetooth Switches: Arduino
+https://play.google.com/store/apps/details?id=com.github.yashx.arduinobluetoothswitcheshc_05andhc_06&hl=pt_BR&pli=1
+
+Bluetooth Voice: Arduino
+https://play.google.com/store/apps/details?id=com.github.yashx.arduinoBluetoothVoice.paid&hl=pt_BR
